@@ -1,0 +1,13 @@
+{
+  "name": "com.toblerus.reactivecore",
+  "version": "1.0.0",
+  "displayName": "ReactiveCore",
+  "description": "A lightweight reactive value system for Unity with safe subscriptions and disposal.",
+  "unity": "2020.3",
+  "keywords": ["reactive", "observable", "state", "lifecycle"],
+  "author": {
+    "name": "Tobi",
+    "email": "toblerus@hotmail.de",
+    "url": "https://github.com/toblerus/reactivecore"
+  }
+}
