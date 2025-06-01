@@ -13,7 +13,7 @@
 
 1. Add this package via Unity Package Manager by Git URL: https://github.com/toblerus/reactivecore.git
 
-Or embed it in your `Packages/` folder.
+Or install the `ReactiveCore-vx.xx.x.unitypackage`
 
 ## Usage
 ### Subscribe
