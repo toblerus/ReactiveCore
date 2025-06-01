@@ -11,9 +11,7 @@
 
 ## Installation
 
-1. Add this package via Unity Package Manager by Git URL: https://github.com/toblerus/reactivecore.git
-
-Or install the `ReactiveCore-vx.xx.x.unitypackage`
+1. Install the latest `ReactiveCore-vx.xx.x.unitypackage` from https://github.com/toblerus/ReactiveCore/releases
 
 ## Usage
 ### Subscribe
